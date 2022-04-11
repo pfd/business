@@ -13,6 +13,8 @@ resources:
 
 **This is a typical blog post that includes images.**
 
+Cool!
+
 The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.
 
 ## Including images
