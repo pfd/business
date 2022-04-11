@@ -14,8 +14,8 @@ jobs:
     steps:
       - name: Install NPM dependencies
         run: |
-          npm install
-          
+          npm install postcss-cli
+
       - uses: actions/checkout@v3
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
