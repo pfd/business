@@ -1,6 +1,6 @@
 
 ---
-title: "Another Great Release"
+title: "Another Cool Release"
 linkTitle: "Release New Features"
 date: 2018-01-04
 description: >
