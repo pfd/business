@@ -16581,8 +16581,6 @@ readers do not read off random characters that represent icons */
   .td-navbar .nav-link {
     text-transform: none;
     font-weight: 700; }
-  .td-navbar .navbar-nav {
-    white-space: nowrap; }
   .td-navbar .dropdown {
     min-width: 100px; }
   @media (max-width: 991.98px) {
@@ -16601,6 +16599,7 @@ readers do not read off random characters that represent icons */
         .td-navbar .td-navbar-nav-scroll .navbar-nav {
           padding-bottom: 2rem;
           overflow-x: auto;
+          white-space: nowrap;
           -webkit-overflow-scrolling: touch; } }
 #main_navbar li i {
   padding-right: 0.5em; }
